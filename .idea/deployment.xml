@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Trim Web Design">
+    <serverData>
+      <paths name="Trim Web Design">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/wp-content/plugins/xenial-divi-schema-menu" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
